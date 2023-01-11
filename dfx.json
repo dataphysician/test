@@ -1,4 +1,5 @@
 {
+  // dataphysician
   "canisters": {
     "test_backend": {
       "main": "src/test_backend/main.mo",
