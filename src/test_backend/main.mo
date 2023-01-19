@@ -5,9 +5,8 @@ actor {
 
 
 // // Write a function multiply that takes two natural numbers and returns the product.
-  public func multiply(n : Nat, m : Nat) -> async Nat {
+  public func multiply(n : Nat, m : Nat) : async Nat {
     return n*m;
   };
-  multiply(2,3);
 };
 // dataphysician
