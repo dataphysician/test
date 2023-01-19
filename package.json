@@ -8,7 +8,7 @@
     "prebuild": "npm run generate",
     "start": "webpack serve --mode development --env development",
     "prestart": "npm run generate",
-    "generate": "dfx generate test_backend"
+    "generate": "dfx --identity anonymous generate test_backend"
   },
   "devDependencies": {
     "@dfinity/agent": "0.15.1",

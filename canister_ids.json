@@ -1,5 +1,8 @@
 {
   "test_backend": {
     "ic": "kmn4t-3aaaa-aaaal-abvea-cai"
+  },
+  "test_frontend": {
+    "ic": "zavhf-jqaaa-aaaal-abwda-cai"
   }
 }
